@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "eslint.options": {
+        "configFile": "./main/.eslintrc.js"
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "gitlab.instanceUrl": "http://47.104.129.179:9091",
+    "gitlab.remoteName": "origin",
+    "gitlab.pipelineGitRemoteName": "origin",
+    "git.autofetch": true
+    // personal access token: 2cNAtM_Xkpu3Bt-snHiW
+}
